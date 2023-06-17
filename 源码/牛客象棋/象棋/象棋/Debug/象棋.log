@@ -1,0 +1,14 @@
+﻿  牛客组中国象棋.c
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(85,64): warning C4013: “redOrBlack”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(416,25): warning C4013: “showgameoverpage”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(454,21): warning C4013: “showchessmap”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(457,31): warning C4013: “firststart”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(463,30): warning C4013: “showcountdown”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(482,17): warning C4013: “setmusic”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(488,22): warning C4013: “setbackground”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(493,21): warning C4013: “setcountdown”未定义；假设外部返回 int
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(535,10): warning C4101: “input”: 未引用的局部变量
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(619,18): warning C4133: “函数”: 从“char [64]”到“LPWSTR”的类型不兼容
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(619,46): warning C4133: “函数”: 从“char [26]”到“LPCWSTR”的类型不兼容
+E:\新建文件夹\象棋\象棋\牛客组中国象棋.c(515): warning C4716: “startpagechoose”: 必须返回一个值
+  象棋.vcxproj -> E:\新建文件夹\象棋\Debug\象棋.exe
